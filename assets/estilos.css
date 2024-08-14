@@ -11,7 +11,11 @@ h2{
     color: orangered;
 }
 
-img{
-    max-width:100%;
-    height: auto;
+img,video {
+ max-width: 100%;
+ height: auto;
+}
+iframe{
+    width: 80%;
+    height: 400px;
 }
